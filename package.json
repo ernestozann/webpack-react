@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "curso-webpack-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+  },
+  "author": "Ernesto Martinez <ernestomm99@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platzi/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+}
